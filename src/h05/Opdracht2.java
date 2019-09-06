@@ -37,6 +37,9 @@ public class Opdracht2 extends Applet {
         g.drawString("100", 10, 160);
         g.drawString("120", 10, 140);
         g.drawString("140", 10, 120);
+        g.drawString("Valerie", 65, 265);
+        g.drawString("Jeroen", 125, 265);
+        g.drawString("Hans", 192, 265);
     }
 
 }
